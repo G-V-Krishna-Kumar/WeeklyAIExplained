@@ -7,4 +7,4 @@ Each explanation is presented as a Jupyter notebook and typically includes:
 - Visual aids (e.g., diagrams, architecture screenshots)  
 - Code snippets or walkthroughs (when applicable)  
 
-The goal is to develop deep understanding while creating high-quality, accessible learning material for others interested in AI.
+The goal is to develop a deep understanding of AI concepts while creating high-quality, accessible learning material for both myself and others interested in the field.
