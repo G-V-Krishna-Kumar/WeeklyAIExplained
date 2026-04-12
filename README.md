@@ -64,8 +64,7 @@ It is currently minimal and will be expanded over time.
   - Probability & Statistics  
   - Calculus  
 
-- Core Libraries  
-  - PyTorch  
+- Core Libraries    
   - Pandas 
   - PyTorch
   - Matplotlib 
