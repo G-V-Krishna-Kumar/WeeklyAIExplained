@@ -70,6 +70,8 @@ Transformer_From_Scratch_English_To_Telugu/
 │       ├── model.py
 │       └── translate.py
 │
+├── data/
+|
 ├── tokenizer/
 │   ├── tokenizer_english.json
 │   └── tokenizer_telugu.json
